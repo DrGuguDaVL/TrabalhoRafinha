@@ -1,28 +1,20 @@
 #Youtube{
-    border-radius: 10px;
     border-color: maroon;
     background-color: red;
     color: white;
 }
 #Twitter{
-    border-radius: 10px;
     border-color: deepskyblue;
     background-color: dodgerblue;
     color: white;
 }
 #Twitch{
-    border-radius: 10px;
     border-color: black;
     background-color: blueviolet;
     color: white;
 }
 #Facebook{
-    border-radius: 10px;
     border-color: blue;
     background-color: steelblue;
     color: white;
-}
-button{
-    width:10cm;
-    height:10cm;
 }
