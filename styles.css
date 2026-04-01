@@ -1,7 +1,23 @@
-#Youtube{
-    border-color: maroon;
-    background-color: red;
-    color: white;
+#Youtube button {
+  background-color: #FF0000; /* YouTube red */
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+/* Hover effect (slightly darker red like YouTube) */
+#Youtube button:hover {
+  background-color: #cc0000;
+}
+
+/* Optional: add a subtle shadow like modern buttons */
+#Youtube button {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 #Twitter{
     border-color: deepskyblue;
