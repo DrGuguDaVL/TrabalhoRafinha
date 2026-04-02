@@ -133,6 +133,21 @@
 #TikTok button:hover {
   background-color: #1a1a1a;
 }
+
+#Pinterest button {
+  background-color: #E60023;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  font-size: 15px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#Pinterest button:hover {
+  background-color: #ad001a;
+}
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
