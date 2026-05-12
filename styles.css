@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&display=swap');
 :root{
-    --cor-de-fundo: rgb(0, 0, 0);
-    --cor-texto-principal: #34aa8a;
-    --cor-texto-secundario: #e4c40d;
-    --botao-inativo: rgb(87, 106, 154);
-    --botao-ativo: rgb(43, 185, 55);
+    --cor-de-fundo: greenyellow;
+    --cor-texto-principal: orange;
+    --cor-texto-secundario: red;
+    --botao-inativo:teal;
+    --botao-ativo:cyan;
 }
 body{
     background: var(--cor-de-fundo);
